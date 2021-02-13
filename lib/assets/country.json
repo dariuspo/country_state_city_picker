@@ -1,340 +1,472 @@
 [
-   {
-      "id":233,
-      "name":"United States",
-      "emoji":"\ud83c\uddfa\ud83c\uddf8",
-      "emojiU":"U+1F1FA U+1F1F8",
-      "state":[
-         {
-            "id":1398,
-            "name":"Howland Island",
-            "country_id":233
-         },
-         {
-            "id":1399,
-            "name":"Delaware",
-            "country_id":233
-         },
-         {
-            "id":1400,
-            "name":"Alaska",
-            "country_id":233
-         },
-         {
-            "id":1401,
-            "name":"Maryland",
-            "country_id":233
-         },
-         {
-            "id":1402,
-            "name":"Baker Island",
-            "country_id":233
-         },
-         {
-            "id":1403,
-            "name":"Kingman Reef",
-            "country_id":233
-         },
-         {
-            "id":1404,
-            "name":"New Hampshire",
-            "country_id":233
-         },
-         {
-            "id":1405,
-            "name":"Wake Island",
-            "country_id":233
-         },
-         {
-            "id":1406,
-            "name":"Kansas",
-            "country_id":233
-         },
-         {
-            "id":1407,
-            "name":"Texas",
-            "country_id":233
-         },
-         {
-            "id":1408,
-            "name":"Nebraska",
-            "country_id":233
-         },
-         {
-            "id":1409,
-            "name":"Vermont",
-            "country_id":233
-         },
-         {
-            "id":1410,
-            "name":"Jarvis Island",
-            "country_id":233
-         },
-         {
-            "id":1411,
-            "name":"Hawaii",
-            "country_id":233
-         },
-         {
-            "id":1412,
-            "name":"Guam",
-            "country_id":233
-         },
-         {
-            "id":1413,
-            "name":"United States Virgin Islands",
-            "country_id":233
-         },
-         {
-            "id":1414,
-            "name":"Utah",
-            "country_id":233
-         },
-         {
-            "id":1415,
-            "name":"Oregon",
-            "country_id":233
-         },
-         {
-            "id":1416,
-            "name":"California",
-            "country_id":233
-         },
-         {
-            "id":1417,
-            "name":"New Jersey",
-            "country_id":233
-         },
-         {
-            "id":1418,
-            "name":"North Dakota",
-            "country_id":233
-         },
-         {
-            "id":1419,
-            "name":"Kentucky",
-            "country_id":233
-         },
-         {
-            "id":1420,
-            "name":"Minnesota",
-            "country_id":233
-         },
-         {
-            "id":1421,
-            "name":"Oklahoma",
-            "country_id":233
-         },
-         {
-            "id":1422,
-            "name":"Pennsylvania",
-            "country_id":233
-         },
-         {
-            "id":1423,
-            "name":"New Mexico",
-            "country_id":233
-         },
-         {
-            "id":1424,
-            "name":"American Samoa",
-            "country_id":233
-         },
-         {
-            "id":1425,
-            "name":"Illinois",
-            "country_id":233
-         },
-         {
-            "id":1426,
-            "name":"Michigan",
-            "country_id":233
-         },
-         {
-            "id":1427,
-            "name":"Virginia",
-            "country_id":233
-         },
-         {
-            "id":1428,
-            "name":"Johnston Atoll",
-            "country_id":233
-         },
-         {
-            "id":1429,
-            "name":"West Virginia",
-            "country_id":233
-         },
-         {
-            "id":1430,
-            "name":"Mississippi",
-            "country_id":233
-         },
-         {
-            "id":1431,
-            "name":"Northern Mariana Islands",
-            "country_id":233
-         },
-         {
-            "id":1432,
-            "name":"United States Minor Outlying Islands",
-            "country_id":233
-         },
-         {
-            "id":1433,
-            "name":"Massachusetts",
-            "country_id":233
-         },
-         {
-            "id":1434,
-            "name":"Arizona",
-            "country_id":233
-         },
-         {
-            "id":1435,
-            "name":"Connecticut",
-            "country_id":233
-         },
-         {
-            "id":1436,
-            "name":"Florida",
-            "country_id":233
-         },
-         {
-            "id":1437,
-            "name":"District of Columbia",
-            "country_id":233
-         },
-         {
-            "id":1438,
-            "name":"Midway Atoll",
-            "country_id":233
-         },
-         {
-            "id":1439,
-            "name":"Navassa Island",
-            "country_id":233
-         },
-         {
-            "id":1440,
-            "name":"Indiana",
-            "country_id":233
-         },
-         {
-            "id":1441,
-            "name":"Wisconsin",
-            "country_id":233
-         },
-         {
-            "id":1442,
-            "name":"Wyoming",
-            "country_id":233
-         },
-         {
-            "id":1443,
-            "name":"South Carolina",
-            "country_id":233
-         },
-         {
-            "id":1444,
-            "name":"Arkansas",
-            "country_id":233
-         },
-         {
-            "id":1445,
-            "name":"South Dakota",
-            "country_id":233
-         },
-         {
-            "id":1446,
-            "name":"Montana",
-            "country_id":233
-         },
-         {
-            "id":1447,
-            "name":"North Carolina",
-            "country_id":233
-         },
-         {
-            "id":1448,
-            "name":"Palmyra Atoll",
-            "country_id":233
-         },
-         {
-            "id":1449,
-            "name":"Puerto Rico",
-            "country_id":233
-         },
-         {
-            "id":1450,
-            "name":"Colorado",
-            "country_id":233
-         },
-         {
-            "id":1451,
-            "name":"Missouri",
-            "country_id":233
-         },
-         {
-            "id":1452,
-            "name":"New York",
-            "country_id":233
-         },
-         {
-            "id":1453,
-            "name":"Maine",
-            "country_id":233
-         },
-         {
-            "id":1454,
-            "name":"Tennessee",
-            "country_id":233
-         },
-         {
-            "id":1455,
-            "name":"Georgia",
-            "country_id":233
-         },
-         {
-            "id":1456,
-            "name":"Alabama",
-            "country_id":233
-         },
-         {
-            "id":1457,
-            "name":"Louisiana",
-            "country_id":233
-         },
-         {
-            "id":1458,
-            "name":"Nevada",
-            "country_id":233
-         },
-         {
-            "id":1459,
-            "name":"Iowa",
-            "country_id":233
-         },
-         {
-            "id":1460,
-            "name":"Idaho",
-            "country_id":233
-         },
-         {
-            "id":1461,
-            "name":"Rhode Island",
-            "country_id":233
-         },
-         {
-            "id":1462,
-            "name":"Washington",
-            "country_id":233
-         },
-         {
-            "id":4851,
-            "name":"Ohio",
-            "country_id":233
-         }
-      ]
-   }
+  {
+    "id": 233,
+    "name": "United States",
+    "emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "emojiU": "U+1F1FA U+1F1F8",
+    "state": [
+      {
+        "id": 1398,
+        "name": "Howland Island",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1399,
+        "name": "Delaware",
+        "country_id": 233,
+        "latitude": 39.000000,
+        "longitude": -75.500000
+      },
+      {
+        "id": 1400,
+        "name": "Alaska",
+        "country_id": 233,
+        "latitude": 66.160507,
+        "longitude": -153.369141
+      },
+      {
+        "id": 1401,
+        "name": "Maryland",
+        "country_id": 233,
+        "latitude": 39.045753,
+        "longitude": -76.641273
+      },
+      {
+        "id": 1402,
+        "name": "Baker Island",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1403,
+        "name": "Kingman Reef",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1404,
+        "name": "New Hampshire",
+        "country_id": 233,
+        "latitude": 44.000000,
+        "longitude": -71.500000
+      },
+      {
+        "id": 1405,
+        "name": "Wake Island",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1406,
+        "name": "Kansas",
+        "country_id": 233,
+        "latitude": 38.500000,
+        "longitude": -98.000000
+      },
+      {
+        "id": 1407,
+        "name": "Texas",
+        "country_id": 233,
+        "latitude": 31.000000,
+        "longitude": -100.000000
+      },
+      {
+        "id": 1408,
+        "name": "Nebraska",
+        "country_id": 233,
+        "latitude": 41.500000,
+        "longitude": -100.000000
+      },
+      {
+        "id": 1409,
+        "name": "Vermont",
+        "country_id": 233,
+        "latitude": 44.000000,
+        "longitude": -72.699997
+      },
+      {
+        "id": 1410,
+        "name": "Jarvis Island",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1411,
+        "name": "Hawaii",
+        "country_id": 233,
+        "latitude": 19.741755,
+        "longitude": -155.844437
+      },
+      {
+        "id": 1412,
+        "name": "Guam",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1413,
+        "name": "United States Virgin Islands",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1414,
+        "name": "Utah",
+        "country_id": 233,
+        "latitude": 39.419220,
+        "longitude": -111.950684
+      },
+      {
+        "id": 1415,
+        "name": "Oregon",
+        "country_id": 233,
+        "latitude": 44.000000,
+        "longitude": -120.500000
+      },
+      {
+        "id": 1416,
+        "name": "California",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1417,
+        "name": "New Jersey",
+        "country_id": 233,
+        "latitude": 39.833851,
+        "longitude": -74.871826
+      },
+      {
+        "id": 1418,
+        "name": "North Dakota",
+        "country_id": 233,
+        "latitude": 47.650589,
+        "longitude": -100.437012
+      },
+      {
+        "id": 1419,
+        "name": "Kentucky",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1420,
+        "name": "Minnesota",
+        "country_id": 233,
+        "latitude": 46.392410,
+        "longitude": -94.636230
+      },
+      {
+        "id": 1421,
+        "name": "Oklahoma",
+        "country_id": 233,
+        "latitude": 36.084621,
+        "longitude": -96.921387
+      },
+      {
+        "id": 1422,
+        "name": "Pennsylvania",
+        "country_id": 233,
+        "latitude": 41.203323,
+        "longitude": -77.194527
+      },
+      {
+        "id": 1423,
+        "name": "New Mexico",
+        "country_id": 233,
+        "latitude": 34.307144,
+        "longitude": -106.018066
+      },
+      {
+        "id": 1424,
+        "name": "American Samoa",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1425,
+        "name": "Illinois",
+        "country_id": 233,
+        "latitude": 40.000000,
+        "longitude": -89.000000
+      },
+      {
+        "id": 1426,
+        "name": "Michigan",
+        "country_id": 233,
+        "latitude": 44.182205,
+        "longitude": -84.506836
+      },
+      {
+        "id": 1427,
+        "name": "Virginia",
+        "country_id": 233,
+        "latitude": 37.926868,
+        "longitude": -78.024902
+      },
+      {
+        "id": 1428,
+        "name": "Johnston Atoll",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1429,
+        "name": "West Virginia",
+        "country_id": 233,
+        "latitude": 39.000000,
+        "longitude": -80.500000
+      },
+      {
+        "id": 1430,
+        "name": "Mississippi",
+        "country_id": 233,
+        "latitude": 33.000000,
+        "longitude": -90.000000
+      },
+      {
+        "id": 1431,
+        "name": "Northern Mariana Islands",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1432,
+        "name": "United States Minor Outlying Islands",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1433,
+        "name": "Massachusetts",
+        "country_id": 233,
+        "latitude": 42.407211,
+        "longitude": -71.382439
+      },
+      {
+        "id": 1434,
+        "name": "Arizona",
+        "country_id": 233,
+        "latitude": 34.048927,
+        "longitude": -111.093735
+      },
+      {
+        "id": 1435,
+        "name": "Connecticut",
+        "country_id": 233,
+        "latitude": 41.599998,
+        "longitude": -72.699997
+      },
+      {
+        "id": 1436,
+        "name": "Florida",
+        "country_id": 233,
+        "latitude": 27.994402,
+        "longitude": -81.760254
+      },
+      {
+        "id": 1437,
+        "name": "District of Columbia",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1438,
+        "name": "Midway Atoll",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1439,
+        "name": "Navassa Island",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1440,
+        "name": "Indiana",
+        "country_id": 233,
+        "latitude": 40.273502,
+        "longitude": -86.126976
+      },
+      {
+        "id": 1441,
+        "name": "Wisconsin",
+        "country_id": 233,
+        "latitude": 44.500000,
+        "longitude": -89.500000
+      },
+      {
+        "id": 1442,
+        "name": "Wyoming",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1443,
+        "name": "South Carolina",
+        "country_id": 233,
+        "latitude": 33.836082,
+        "longitude": -81.163727
+      },
+      {
+        "id": 1444,
+        "name": "Arkansas",
+        "country_id": 233,
+        "latitude": 34.799999,
+        "longitude": -92.199997
+      },
+      {
+        "id": 1445,
+        "name": "South Dakota",
+        "country_id": 233,
+        "latitude": 44.500000,
+        "longitude": -100.000000
+      },
+      {
+        "id": 1446,
+        "name": "Montana",
+        "country_id": 233,
+        "latitude": 46.965260,
+        "longitude": -109.533691
+      },
+      {
+        "id": 1447,
+        "name": "North Carolina",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1448,
+        "name": "Palmyra Atoll",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1449,
+        "name": "Puerto Rico",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1450,
+        "name": "Colorado",
+        "country_id": 233,
+        "latitude": 39.113014,
+        "longitude": -105.358887
+      },
+      {
+        "id": 1451,
+        "name": "Missouri",
+        "country_id": 233,
+        "latitude": 38.573936,
+        "longitude": -92.603760
+      },
+      {
+        "id": 1452,
+        "name": "New York",
+        "country_id": 233,
+        "latitude": 43.000000,
+        "longitude": -75.000000
+      },
+      {
+        "id": 1453,
+        "name": "Maine",
+        "country_id": 233,
+        "latitude": 45.367584,
+        "longitude": -68.972168
+      },
+      {
+        "id": 1454,
+        "name": "Tennessee",
+        "country_id": 233,
+        "latitude": 35.860119,
+        "longitude": -86.660156
+      },
+      {
+        "id": 1455,
+        "name": "Georgia",
+        "country_id": 233,
+        "latitude": 33.247875,
+        "longitude": -83.441162
+      },
+      {
+        "id": 1456,
+        "name": "Alabama",
+        "country_id": 233,
+        "latitude": 32.318230,
+        "longitude": -86.902298
+      },
+      {
+        "id": 1457,
+        "name": "Louisiana",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1458,
+        "name": "Nevada",
+        "country_id": 233,
+        "latitude": 39.876019,
+        "longitude": -117.224121
+      },
+      {
+        "id": 1459,
+        "name": "Iowa",
+        "country_id": 233,
+        "latitude": 42.032974,
+        "longitude": -93.581543
+      },
+      {
+        "id": 1460,
+        "name": "Idaho",
+        "country_id": 233,
+        "latitude":,
+        "longitude": -
+      },
+      {
+        "id": 1461,
+        "name": "Rhode Island",
+        "country_id": 233,
+        "latitude": 41.700001,
+        "longitude": -71.500000
+      },
+      {
+        "id": 1462,
+        "name": "Washington",
+        "country_id": 233,
+        "latitude": 47.751076,
+        "longitude": -120.740135
+      },
+      {
+        "id": 4851,
+        "name": "Ohio",
+        "country_id": 233,
+        "latitude": 40.367474,
+        "longitude": -82.996216
+      }
+    ]
+  }
 ]

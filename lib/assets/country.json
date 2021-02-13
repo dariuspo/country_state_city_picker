@@ -6,13 +6,6 @@
     "emojiU": "U+1F1FA U+1F1F8",
     "state": [
       {
-        "id": 1398,
-        "name": "Howland Island",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
         "id": 1399,
         "name": "Delaware",
         "country_id": 233,
@@ -34,32 +27,11 @@
         "longitude": -76.641273
       },
       {
-        "id": 1402,
-        "name": "Baker Island",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1403,
-        "name": "Kingman Reef",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
         "id": 1404,
         "name": "New Hampshire",
         "country_id": 233,
         "latitude": 44.000000,
         "longitude": -71.500000
-      },
-      {
-        "id": 1405,
-        "name": "Wake Island",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
       },
       {
         "id": 1406,
@@ -90,32 +62,11 @@
         "longitude": -72.699997
       },
       {
-        "id": 1410,
-        "name": "Jarvis Island",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
         "id": 1411,
         "name": "Hawaii",
         "country_id": 233,
         "latitude": 19.741755,
         "longitude": -155.844437
-      },
-      {
-        "id": 1412,
-        "name": "Guam",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1413,
-        "name": "United States Virgin Islands",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
       },
       {
         "id": 1414,
@@ -135,8 +86,8 @@
         "id": 1416,
         "name": "California",
         "country_id": 233,
-        "latitude":,
-        "longitude": -
+        "latitude": 36.778259,
+        "longitude": -119.417931
       },
       {
         "id": 1417,
@@ -156,8 +107,8 @@
         "id": 1419,
         "name": "Kentucky",
         "country_id": 233,
-        "latitude":,
-        "longitude": -
+        "latitude":37.839333,
+        "longitude": -84.270018
       },
       {
         "id": 1420,
@@ -188,13 +139,6 @@
         "longitude": -106.018066
       },
       {
-        "id": 1424,
-        "name": "American Samoa",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
         "id": 1425,
         "name": "Illinois",
         "country_id": 233,
@@ -216,13 +160,6 @@
         "longitude": -78.024902
       },
       {
-        "id": 1428,
-        "name": "Johnston Atoll",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
         "id": 1429,
         "name": "West Virginia",
         "country_id": 233,
@@ -235,20 +172,6 @@
         "country_id": 233,
         "latitude": 33.000000,
         "longitude": -90.000000
-      },
-      {
-        "id": 1431,
-        "name": "Northern Mariana Islands",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1432,
-        "name": "United States Minor Outlying Islands",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
       },
       {
         "id": 1433,
@@ -279,27 +202,6 @@
         "longitude": -81.760254
       },
       {
-        "id": 1437,
-        "name": "District of Columbia",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1438,
-        "name": "Midway Atoll",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1439,
-        "name": "Navassa Island",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
         "id": 1440,
         "name": "Indiana",
         "country_id": 233,
@@ -317,8 +219,8 @@
         "id": 1442,
         "name": "Wyoming",
         "country_id": 233,
-        "latitude":,
-        "longitude": -
+        "latitude": 43.075970,
+        "longitude": -107.290283
       },
       {
         "id": 1443,
@@ -352,22 +254,8 @@
         "id": 1447,
         "name": "North Carolina",
         "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1448,
-        "name": "Palmyra Atoll",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
-      },
-      {
-        "id": 1449,
-        "name": "Puerto Rico",
-        "country_id": 233,
-        "latitude":,
-        "longitude": -
+        "latitude": 35.782169,
+        "longitude": -80.793457
       },
       {
         "id": 1450,
@@ -422,8 +310,8 @@
         "id": 1457,
         "name": "Louisiana",
         "country_id": 233,
-        "latitude":,
-        "longitude": -
+        "latitude": 30.391830,
+        "longitude": -92.329102
       },
       {
         "id": 1458,
@@ -443,12 +331,12 @@
         "id": 1460,
         "name": "Idaho",
         "country_id": 233,
-        "latitude":,
-        "longitude": -
+        "latitude": 44.068203,
+        "longitude": -114.742043
       },
       {
         "id": 1461,
-        "name": "Rhode Island",
+        "name": "Rhodes Island",
         "country_id": 233,
         "latitude": 41.700001,
         "longitude": -71.500000

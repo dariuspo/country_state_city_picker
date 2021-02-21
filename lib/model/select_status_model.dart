@@ -1,13 +1,13 @@
-class StatusModel {
+class Country {
   int id;
   String name;
   String emoji;
   String emojiU;
   List<State> state;
 
-  StatusModel({this.id, this.name, this.emoji, this.emojiU, this.state});
+  Country({this.id, this.name, this.emoji, this.emojiU, this.state});
 
-  StatusModel.fromJson(Map<String, dynamic> json) {
+  Country.fromJson(Map<String, dynamic> json) {
     id = json['id'];
     name = json['name'];
     emoji = json['emoji'];
@@ -38,13 +38,17 @@ class State {
   String name;
   int countryId;
   List<City> city;
+  double latitude;
+  double longitude;
 
-  State({this.id, this.name, this.countryId, this.city});
+  State({this.id, this.name, this.countryId, this.city, this.latitude, this.longitude});
 
   State.fromJson(Map<String, dynamic> json) {
     id = json['id'];
     name = json['name'];
     countryId = json['country_id'];
+    latitude = json['latitude'];
+    longitude = json['longitude'];
     if (json['city'] != null) {
       city = new List<City>();
       json['city'].forEach((v) {
@@ -58,6 +62,8 @@ class State {
     data['id'] = this.id;
     data['name'] = this.name;
     data['country_id'] = this.countryId;
+    data['latitude'] = this.latitude;
+    data['longitude'] = this.longitude;
     if (this.city != null) {
       data['city'] = this.city.map((v) => v.toJson()).toList();
     }
